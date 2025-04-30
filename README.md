@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I'm Yabsira, 3rd year Computer Science student and passionated software developer
 <!--
 **yabsiragetachew/yabsiragetachew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
